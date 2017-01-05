@@ -1,0 +1,5 @@
+Ann 18 FEMALE cat 2
+fox 3
+Alice 30 FEMALE hamster 8
+Robert 22 MALE fish 3
+Tom 13 MALE dog 4

@@ -1,0 +1,5 @@
+Ivan 18 MALE
+Petro 26 MALE
+Max 23 MALE
+Olya 12 FEMALE
+Tom 22 MALE
